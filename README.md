@@ -15,7 +15,7 @@ Install platformIO module for Visual Studio Code
 
 ### Board IO
 
-The software design for Arduino Nano
+The software design for Arduino Nano Board
 The electrical circuit board drawing can be found /drawing
 
 
