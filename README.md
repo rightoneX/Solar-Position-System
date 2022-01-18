@@ -21,7 +21,7 @@ The electrical circuit board drawing can be found /drawing
 
 > Input
 - А0	Photo Sensor 1		
-- А1  Photo Sensor 2		
+- А1    Photo Sensor 2		
 - А2	Photo Sensor 3		
 - А3	Photo Sensor 4		
 - А4	Head Temperature Sensor 		
